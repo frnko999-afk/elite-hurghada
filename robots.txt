@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elite-hurghada-preview.scrawny-perch-2b7.workers.dev/sitemap.xml
