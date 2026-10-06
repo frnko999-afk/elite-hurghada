@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Elite — القانون والعقار والبحر</title>
+  <desc id="desc">درع يحتضن ميزان العدالة وقوسًا معماريًا وموجات بحرية.</desc>
+  <path d="M64 6 108 22v35c0 30-17 51-44 65C37 108 20 87 20 57V22L64 6Z" fill="#14272c" stroke="#bd9a66" stroke-width="3"/>
+  <path d="M64 27v37M44 36h40M64 31 47 36m17-5 17 5M48 36l-8 16h17l-9-16Zm32 0-8 16h17l-9-16Z" stroke="#ead7b8" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 67v13M73 67v13M55 80c0-7 4-11 9-11s9 4 9 11v9H55v-9Z" stroke="#bd9a66" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M34 92c9-5 17-5 26 0s17 5 26 0M39 100c8-4 15-4 23 0s15 4 23 0" stroke="#ead7b8" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
